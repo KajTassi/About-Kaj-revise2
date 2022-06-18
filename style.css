@@ -1,0 +1,52 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  min-width: 350px;
+  max-width: 850px;
+}
+
+div {
+  text-align: center;
+  width: 620px;
+  height: 300px;
+  padding: 20px 0 20px 20px;
+  margin: 10;
+}
+
+header {
+  background-color: skyblue
+}
+
+h1 {
+  color: white;
+  padding: 20px 0 20px 20px;
+  margin: 20px;
+}
+
+h1, h2, h3{
+  text-align: center;
+}
+
+height: 2px; h3, p {
+  font-family: Ariel, sans-serif;
+}
+
+h1 {
+  font-family: Futura;
+  font-size: 45px;
+  text-transform: uppercase;
+  margin-top: 0;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-shadow: 0px 0px 12px #000;
+}
+h2 {
+  color: white;
+}
+
+h1, h2, {
+  background-color: light skyblue;
+}
